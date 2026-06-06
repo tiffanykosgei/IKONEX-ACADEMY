@@ -1,0 +1,17 @@
+{
+  "name": "ikonex-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:frontend": "npm --prefix ikonexfrontend/frontend run dev",
+    "dev:backend": "npm --prefix ikonexbackend run dev",
+    "start:backend": "npm --prefix ikonexbackend start",
+    "build:frontend": "npm --prefix ikonexfrontend/frontend run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
