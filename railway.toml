@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "cd ikonexbackend && node index.js"
