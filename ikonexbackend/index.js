@@ -7,7 +7,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://ikonex-academy.vercel.app'
+   'https://ikonex-academy-delta.vercel.app'
 ];
 app.use(cors({
   origin: function(origin, callback) {
